@@ -1,3 +1,3 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-Just a map archive
+Just a map archive, ignore this file
